@@ -1,4 +1,4 @@
-# Job Search
+# Nokri
 
 A project for collecting job postings from multiple sources and preparing them for later enrichment and use.
 
