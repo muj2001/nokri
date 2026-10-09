@@ -2,6 +2,6 @@
 
 ## API Sources
 
-- Greenhouse
-- Lever
+- [Greenhouse](./greenhouse.md)
+- [Lever](./lever.md)
 
