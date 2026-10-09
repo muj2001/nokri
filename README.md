@@ -8,4 +8,4 @@ Collect job postings from sources such as Greenhouse and Lever, and store the ra
 
 ## Later
 
-Enrich the collected postings and transform them into a database schema once that schema is defined. Setup and usage instructions will be added as the ingestion pipeline takes shape.
+Enrich the collected postings and transform them into a database schema once that schema is defined. See [SETUP.md](SETUP.md) for the current local setup; usage instructions will be added as the ingestion pipeline takes shape.
